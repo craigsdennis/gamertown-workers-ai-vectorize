@@ -20,6 +20,12 @@ Install dependencies
 npm install
 ```
 
+Create your Vectorize database. (I used the bge-large embedding.)
+
+```bash
+npx wrangler vectorize create video-game-summaries --preset "@cf/baai/bge-large-en-v1.5"      
+```
+
 Run the local development server
 
 ```bash
