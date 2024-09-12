@@ -2,6 +2,8 @@
 
 Welcome to Gamertown!
 
+[![Watch Gamertown Vectorize Demo on YouTube](https://img.youtube.com/vi/9IjfyBJsJRQ/0.jpg)](https://youtu.be/9IjfyBJsJRQ)
+
 This repo is the code for the behind the counter application that answers all your questions.
 
 This is a demo of [Cloudflare Workers AI](https://developers.cloudflare.com/workers-ai/) making use of [Vectorize](https://developers.cloudflare.com/vectorize/), our vector database.
